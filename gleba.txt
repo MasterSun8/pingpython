@@ -1,0 +1,160 @@
+Packet loss. Gleba: 02/24/2022, 14:05:27
+Packet loss. Gleba: 02/24/2022, 14:06:13
+Packet loss. Gleba: 02/24/2022, 14:06:37
+Packet loss. Gleba: 02/24/2022, 14:06:46
+Packet loss. Gleba: 02/24/2022, 14:06:54
+Packet loss. Gleba: 02/24/2022, 14:06:58
+Ping too high.(  139 ) Gleba: 02/24/2022, 14:07:00
+Packet loss. Gleba: 02/24/2022, 14:07:18
+Packet loss. Gleba: 02/24/2022, 14:08:07
+Ping too high.(  126 ) Gleba: 02/24/2022, 14:11:03
+Ping too high.(  570 ) Gleba: 02/24/2022, 14:11:06
+Packet loss. Gleba: 02/24/2022, 14:12:29
+Packet loss. Gleba: 02/24/2022, 14:12:41
+Packet loss. Gleba: 02/24/2022, 14:13:14
+Packet loss. Gleba: 02/24/2022, 14:13:28
+Packet loss. Gleba: 02/24/2022, 14:14:08
+Packet loss. Gleba: 02/24/2022, 14:14:51
+Ping too high.(  576 ) Gleba: 02/24/2022, 14:15:06
+Packet loss. Gleba: 02/24/2022, 14:15:10
+Ping too high.(  124 ) Gleba: 02/24/2022, 14:15:21
+Ping too high.(  181 ) Gleba: 02/24/2022, 14:15:25
+Packet loss. Gleba: 02/24/2022, 14:15:37
+Ping too high.(  117 ) Gleba: 02/24/2022, 14:15:44
+Packet loss. Gleba: 02/24/2022, 14:17:43
+Packet loss. Gleba: 02/24/2022, 14:18:12
+Ping too high.(  111 ) Gleba: 02/24/2022, 14:19:07
+Packet loss. Gleba: 02/24/2022, 14:19:52
+Packet loss. Gleba: 02/24/2022, 14:20:30
+Packet loss. Gleba: 02/24/2022, 14:21:17
+Ping too high.(  562 ) Gleba: 02/24/2022, 14:22:06
+Packet loss. Gleba: 02/24/2022, 14:22:26
+Packet loss. Gleba: 02/24/2022, 14:22:33
+Packet loss. Gleba: 02/24/2022, 14:22:48
+Ping too high.(  211 ) Gleba: 02/24/2022, 14:23:06
+Packet loss. Gleba: 02/24/2022, 14:23:11
+Packet loss. Gleba: 02/24/2022, 14:23:24
+Packet loss. Gleba: 02/24/2022, 14:23:28
+Packet loss. Gleba: 02/24/2022, 14:23:32
+Packet loss. Gleba: 02/24/2022, 14:23:40
+Packet loss. Gleba: 02/24/2022, 14:24:10
+Packet loss. Gleba: 02/24/2022, 14:24:22
+Packet loss. Gleba: 02/24/2022, 14:24:37
+Packet loss. Gleba: 02/24/2022, 14:24:46
+Ping too high.(  114 ) Gleba: 02/24/2022, 14:26:07
+Ping too high.(  125 ) Gleba: 02/24/2022, 14:26:17
+Ping too high.(  104 ) Gleba: 02/24/2022, 14:26:19
+Ping too high.(  107 ) Gleba: 02/24/2022, 14:26:37
+Ping too high.(  281 ) Gleba: 02/24/2022, 14:28:36
+Ping too high.(  320 ) Gleba: 02/24/2022, 14:29:06
+Ping too high.(  372 ) Gleba: 02/24/2022, 14:29:36
+Ping too high.(  357 ) Gleba: 02/24/2022, 14:30:06
+Ping too high.(  988 ) Gleba: 02/24/2022, 14:34:36
+Ping too high.(  965 ) Gleba: 02/24/2022, 14:36:06
+Ping too high.(  633 ) Gleba: 02/24/2022, 14:37:06
+Ping too high.(  134 ) Gleba: 02/24/2022, 14:37:37
+Ping too high.(  131 ) Gleba: 02/24/2022, 14:38:07
+Ping too high.(  345 ) Gleba: 02/24/2022, 14:38:36
+Ping too high.(  122 ) Gleba: 02/24/2022, 14:39:07
+Ping too high.(  282 ) Gleba: 02/24/2022, 14:39:36
+Ping too high.(  181 ) Gleba: 02/24/2022, 14:41:07
+Ping too high.(  365 ) Gleba: 02/24/2022, 14:41:36
+Ping too high.(  359 ) Gleba: 02/24/2022, 14:42:06
+Ping too high.(  956 ) Gleba: 02/24/2022, 14:45:06
+Ping too high.(  346 ) Gleba: 02/24/2022, 14:45:36
+Ping too high.(  250 ) Gleba: 02/24/2022, 14:46:06
+Packet loss. Gleba: 02/24/2022, 14:49:47
+Ping too high.(  177 ) Gleba: 02/24/2022, 14:53:07
+Ping too high.(  764 ) Gleba: 02/24/2022, 14:55:36
+Ping too high.(  777 ) Gleba: 02/24/2022, 14:56:36
+Ping too high.(  331 ) Gleba: 02/24/2022, 14:57:06
+Ping too high.(  751 ) Gleba: 02/24/2022, 14:59:36
+Ping too high.(  137 ) Gleba: 02/24/2022, 15:00:07
+Ping too high.(  293 ) Gleba: 02/24/2022, 15:06:06
+Ping too high.(  695 ) Gleba: 02/24/2022, 15:07:06
+Ping too high.(  173 ) Gleba: 02/24/2022, 15:08:07
+Ping too high.(  338 ) Gleba: 02/24/2022, 15:08:36
+Ping too high.(  105 ) Gleba: 02/24/2022, 15:10:07
+Ping too high.(  399 ) Gleba: 02/24/2022, 15:10:36
+Ping too high.(  260 ) Gleba: 02/24/2022, 15:11:06
+Ping too high.(  978 ) Gleba: 02/24/2022, 15:14:06
+Ping too high.(  695 ) Gleba: 02/24/2022, 15:15:06
+Ping too high.(  720 ) Gleba: 02/24/2022, 15:16:06
+Ping too high.(  133 ) Gleba: 02/24/2022, 15:16:37
+Ping too high.(  141 ) Gleba: 02/24/2022, 15:17:07
+Ping too high.(  576 ) Gleba: 02/24/2022, 15:18:06
+Ping too high.(  680 ) Gleba: 02/24/2022, 15:22:06
+Ping too high.(  935 ) Gleba: 02/24/2022, 15:25:06
+Ping too high.(  104 ) Gleba: 02/24/2022, 15:26:37
+Ping too high.(  110 ) Gleba: 02/24/2022, 15:28:06
+Ping too high.(  164 ) Gleba: 02/24/2022, 15:29:07
+Ping too high.(  382 ) Gleba: 02/24/2022, 15:29:36
+Ping too high.(  874 ) Gleba: 02/24/2022, 15:32:36
+Ping too high.(  175 ) Gleba: 02/24/2022, 15:35:07
+Ping too high.(  334 ) Gleba: 02/24/2022, 15:35:36
+Ping too high.(  316 ) Gleba: 02/24/2022, 15:36:06
+Ping too high.(  326 ) Gleba: 02/24/2022, 15:36:36
+Ping too high.(  373 ) Gleba: 02/24/2022, 15:37:06
+Ping too high.(  344 ) Gleba: 02/24/2022, 15:37:36
+Ping too high.(  419 ) Gleba: 02/24/2022, 15:39:36
+Ping too high.(  335 ) Gleba: 02/24/2022, 15:40:06
+Ping too high.(  141 ) Gleba: 02/24/2022, 15:42:07
+Ping too high.(  761 ) Gleba: 02/24/2022, 15:43:06
+Ping too high.(  374 ) Gleba: 02/24/2022, 15:43:36
+Ping too high.(  111 ) Gleba: 02/24/2022, 15:45:07
+Ping too high.(  753 ) Gleba: 02/24/2022, 15:46:06
+Ping too high.(  137 ) Gleba: 02/24/2022, 15:46:37
+Ping too high.(  416 ) Gleba: 02/24/2022, 15:47:06
+Ping too high.(  132 ) Gleba: 02/24/2022, 15:47:37
+Ping too high.(  657 ) Gleba: 02/24/2022, 15:50:07
+Ping too high.(  154 ) Gleba: 02/24/2022, 15:53:38
+Ping too high.(  361 ) Gleba: 02/24/2022, 15:54:07
+Ping too high.(  713 ) Gleba: 02/24/2022, 15:55:07
+Ping too high.(  139 ) Gleba: 02/24/2022, 15:57:08
+Ping too high.(  385 ) Gleba: 02/24/2022, 15:57:37
+Ping too high.(  139 ) Gleba: 02/24/2022, 15:58:08
+Ping too high.(  431 ) Gleba: 02/24/2022, 15:58:37
+Ping too high.(  445 ) Gleba: 02/24/2022, 16:00:37
+Ping too high.(  140 ) Gleba: 02/24/2022, 16:04:08
+Ping too high.(  408 ) Gleba: 02/24/2022, 16:04:37
+Ping too high.(  696 ) Gleba: 02/24/2022, 16:05:37
+Ping too high.(  135 ) Gleba: 02/24/2022, 16:06:08
+Ping too high.(  739 ) Gleba: 02/24/2022, 16:07:07
+Ping too high.(  133 ) Gleba: 02/24/2022, 16:07:38
+Ping too high.(  108 ) Gleba: 02/24/2022, 16:09:08
+Ping too high.(  363 ) Gleba: 02/24/2022, 16:09:37
+Ping too high.(  138 ) Gleba: 02/24/2022, 16:14:38
+Ping too high.(  778 ) Gleba: 02/24/2022, 16:15:37
+Ping too high.(  379 ) Gleba: 02/24/2022, 16:16:07
+Ping too high.(  135 ) Gleba: 02/24/2022, 16:18:08
+Ping too high.(  774 ) Gleba: 02/24/2022, 16:19:07
+Ping too high.(  177 ) Gleba: 02/24/2022, 16:21:38
+Ping too high.(  763 ) Gleba: 02/24/2022, 16:22:37
+Ping too high.(  339 ) Gleba: 02/24/2022, 16:23:07
+Ping too high.(  755 ) Gleba: 02/24/2022, 16:24:07
+Ping too high.(  101 ) Gleba: 02/24/2022, 16:27:07
+Ping too high.(  135 ) Gleba: 02/24/2022, 16:27:38
+Ping too high.(  175 ) Gleba: 02/24/2022, 16:30:08
+Ping too high.(  735 ) Gleba: 02/24/2022, 16:31:07
+Ping too high.(  100 ) Gleba: 02/24/2022, 16:35:38
+Ping too high.(  704 ) Gleba: 02/24/2022, 16:36:37
+Ping too high.(  137 ) Gleba: 02/24/2022, 16:37:08
+Ping too high.(  347 ) Gleba: 02/24/2022, 16:37:37
+Packet loss. Gleba: 02/24/2022, 16:43:38
+Ping too high.(  110 ) Gleba: 02/24/2022, 16:44:08
+Ping too high.(  169 ) Gleba: 02/24/2022, 16:45:08
+Ping too high.(  638 ) Gleba: 02/24/2022, 16:46:07
+Ping too high.(  700 ) Gleba: 02/24/2022, 16:47:07
+Ping too high.(  653 ) Gleba: 02/24/2022, 16:53:07
+Ping too high.(  386 ) Gleba: 02/24/2022, 16:53:37
+Ping too high.(  391 ) Gleba: 02/24/2022, 16:54:07
+Ping too high.(  168 ) Gleba: 02/24/2022, 16:57:07
+Ping too high.(  697 ) Gleba: 02/24/2022, 16:58:07
+Ping too high.(  368 ) Gleba: 02/24/2022, 16:58:37
+Ping too high.(  139 ) Gleba: 02/24/2022, 16:59:08
+Ping too high.(  148 ) Gleba: 02/24/2022, 17:01:08
+Ping too high.(  107 ) Gleba: 02/24/2022, 17:04:07
+Ping too high.(  721 ) Gleba: 02/24/2022, 17:08:07
+Ping too high.(  386 ) Gleba: 02/24/2022, 17:08:37
+Ping too high.(  170 ) Gleba: 02/24/2022, 17:09:38
+Ping too high.(  138 ) Gleba: 02/24/2022, 17:10:08
